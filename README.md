@@ -20,10 +20,10 @@ This project analyzes large-scale Japanese tweets related to Traditional Chinese
 
 ## Run Example
 
-python src/extract_data.py
-python src/preprocess.py
-python src/emb_sentence.py
-python src/main.py
-python src/sent_analysis.py
-python src/README.md
+- python src/extract_data.py
+- python src/preprocess.py
+- python src/emb_sentence.py
+- python src/main.py
+- python src/sent_analysis.py
+- python src/README.md
 
