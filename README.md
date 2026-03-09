@@ -13,9 +13,9 @@ This project analyzes large-scale Japanese tweets related to Traditional Chinese
 
 ## Directory Structure
 
-- experiment configuration
-- raw and processed datasets
-- main scripts
+- config/ configuration files
+- src/ source files
+- src/ main scripts
 
 
 ## Run Example
